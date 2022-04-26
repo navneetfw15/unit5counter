@@ -1,0 +1,20 @@
+.even{
+    color:green
+}
+.odd{
+    color:red
+}
+.maindiv{
+ 
+    text-align: center;
+}
+button{
+    margin-left: 10px;
+    /* border-radius: 15px; */
+    background-color:rgb(159, 11, 112);
+    border:0px;
+    color:rgb(255, 255, 255);
+    width:70px;
+    height: 30px;
+
+}
